@@ -2,7 +2,7 @@
 -- version 4.0.10.8
 -- http://www.phpmyadmin.net
 --
--- Host: atria.elkdata.ee
+-- Host: dev.kreative.ee
 -- Generation Time: Dec 31, 2016 at 04:47 AM
 -- Server version: 10.0.27-MariaDB
 -- PHP Version: 5.4.13
